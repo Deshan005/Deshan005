@@ -1,9 +1,9 @@
 ![MasterHead](https://4.bp.blogspot.com/-6vGvy4vCcvE/Xdcwnaf7XzI/AAAAAAAANZM/Io2mm8SXjmUVCo60byOn-XpLUpn54nizACLcBGAsYHQ/s1600/image1.gif)
 
 <h1 align="center">Hi 👋, I'm Deshan Wijethunga</h1>
-<h3 align="center">A Junior Software Engineer from Sri Lanka</h3>
+<h3 align="center">A Software Engineer from Sri Lanka</h3>
 
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
+<img align="center" alt="Software Engineer" src="https://user-images.githubusercontent.com/66024476/129446167-cab40815-c184-4083-a2c2-6a5473d5307d.gif" width="800" height="200" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=n-deshan&label=Profile%20views&color=0e75b6&style=flat" alt="n-deshan" /> </p>
 
