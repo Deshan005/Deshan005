@@ -1,6 +1,6 @@
 ![MasterHead](https://4.bp.blogspot.com/-6vGvy4vCcvE/Xdcwnaf7XzI/AAAAAAAANZM/Io2mm8SXjmUVCo60byOn-XpLUpn54nizACLcBGAsYHQ/s1600/image1.gif)
-<h1 align="center">Hi 👋, I'm Deshan Wijethunga</h1>
-<h3 align="center">A passionate Web Developer from Sri Lanka</h3>
+<h1 align="center">Hi, I'm Deshan Wijethunga</h1>
+<h3 align="center">A passionate Web Developer</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=n-deshan&label=Profile%20views&color=0e75b6&style=flat" alt="n-deshan" /> </p>
@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/deshan2005" target="blank"><img src="https://img.shields.io/twitter/follow/deshan2005?logo=twitter&style=for-the-badge" alt="deshan2005" /></a> </p>
 
-- 💬 Ask me about **React, HTML5 CSS3, Java, Python**
+- 💬 Ask me about **MERN stack, Next.js, PHP, Tailwind CSS, Bootstrap CSS, HTML5/CSS3, Java, Python**
 
 - 📫 How to reach me **deshanw77@gmail.com**
 
